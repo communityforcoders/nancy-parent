@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <name>nancy-parent</name>
+  <groupId>pl.communityforcoders</groupId>
+  <artifactId>nancy-parent</artifactId>
+  <version>1</version> <!-- Versioning depends on the amount of adding / removing modules, the remaining modules are versioned in a way that depends on the given project. -->
+
+  <packaging>pom</packaging>
+
+  <description>
+    Maven's project gathering all dependencies in the official distribution of Nancy's bot.
+  </description>
+  <inceptionYear>2017</inceptionYear>
+
+  <modules>
+    <module>nancy</module>
+  </modules>
+    
+</project>
