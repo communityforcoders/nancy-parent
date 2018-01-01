@@ -1,3 +1,6 @@
 [submodule "nancy"]
 	path = nancy
 	url = https://github.com/communityforcoders/nancy
+[submodule "modules/test"]
+	path = modules/test
+	url = https://github.com/communityforcoders/nancy-test-module.git
