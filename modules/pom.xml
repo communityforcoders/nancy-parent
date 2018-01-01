@@ -16,7 +16,7 @@
   <packaging>pom</packaging>
 
   <modules>
-
+    <module>test</module>
   </modules>
 
     
