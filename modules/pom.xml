@@ -12,7 +12,7 @@
 
   <name>nancy :: modules</name>
   <artifactId>nancy-modules</artifactId>
-  <version>${project.parent.version}</version>
+  <version>2</version>
   <packaging>pom</packaging>
 
   <modules>
