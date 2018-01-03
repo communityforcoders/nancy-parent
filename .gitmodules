@@ -4,3 +4,6 @@
 [submodule "modules/test"]
 	path = modules/test
 	url = https://github.com/communityforcoders/nancy-test-module.git
+[submodule "modules/register"]
+	path = modules/register
+	url = https://github.com/communityforcoders/nancy-register-module.git

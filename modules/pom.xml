@@ -21,6 +21,7 @@
 
   <modules>
     <module>test</module>
+    <module>register</module>
   </modules>
 
     
