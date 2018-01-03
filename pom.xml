@@ -7,7 +7,7 @@
   <name>nancy :: parent</name>
   <groupId>pl.communityforcoders</groupId>
   <artifactId>nancy-parent</artifactId>
-  <version>2</version>
+  <version>3</version>
 
   <packaging>pom</packaging>
 
