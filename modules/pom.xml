@@ -7,12 +7,12 @@
   <parent>
     <groupId>pl.communityforcoders</groupId>
     <artifactId>nancy-parent</artifactId>
-    <version>2</version>
+    <version>3</version>
   </parent>
 
   <name>nancy :: modules</name>
   <artifactId>nancy-modules</artifactId>
-  <version>2</version>
+  <version>3</version>
   <packaging>pom</packaging>
 
   <properties>
