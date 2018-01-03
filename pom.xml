@@ -16,6 +16,10 @@
   </description>
   <inceptionYear>2017</inceptionYear>
 
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
   <modules>
     <module>nancy</module>
     <module>modules</module>
