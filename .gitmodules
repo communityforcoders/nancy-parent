@@ -7,3 +7,6 @@
 [submodule "modules/register"]
 	path = modules/register
 	url = https://github.com/communityforcoders/nancy-register-module.git
+[submodule "modules/mute"]
+	path = modules/mute
+	url = https://github.com/communityforcoders/nancy-mute-module.git
